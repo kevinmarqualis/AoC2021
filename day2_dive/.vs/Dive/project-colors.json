@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c84133a-d6a4-44a5-bc7c-db9c8abd6fda": {
+      "ProjectGuid": "1c84133a-d6a4-44a5-bc7c-db9c8abd6fda",
+      "DisplayName": "Dive",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

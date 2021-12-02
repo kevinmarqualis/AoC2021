@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dive", "Dive\Dive.csproj", "{1C84133A-D6A4-44A5-BC7C-DB9C8ABD6FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C84133A-D6A4-44A5-BC7C-DB9C8ABD6FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C84133A-D6A4-44A5-BC7C-DB9C8ABD6FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C84133A-D6A4-44A5-BC7C-DB9C8ABD6FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C84133A-D6A4-44A5-BC7C-DB9C8ABD6FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC24549-176A-415E-A53D-88A1EBDEA463}
+	EndGlobalSection
+EndGlobal

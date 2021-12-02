@@ -1,0 +1,15 @@
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\bin\Debug\net6.0\Dive.exe
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\bin\Debug\net6.0\Dive.deps.json
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\bin\Debug\net6.0\Dive.runtimeconfig.json
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\bin\Debug\net6.0\Dive.dll
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\bin\Debug\net6.0\ref\Dive.dll
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\bin\Debug\net6.0\Dive.pdb
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\obj\Debug\net6.0\Dive.csproj.AssemblyReference.cache
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\obj\Debug\net6.0\Dive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\obj\Debug\net6.0\Dive.AssemblyInfoInputs.cache
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\obj\Debug\net6.0\Dive.AssemblyInfo.cs
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\obj\Debug\net6.0\Dive.csproj.CoreCompileInputs.cache
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\obj\Debug\net6.0\Dive.dll
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\obj\Debug\net6.0\ref\Dive.dll
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\obj\Debug\net6.0\Dive.pdb
+C:\Dev\Csharp\AoC2021\day2_dive\Dive\obj\Debug\net6.0\Dive.genruntimeconfig.cache

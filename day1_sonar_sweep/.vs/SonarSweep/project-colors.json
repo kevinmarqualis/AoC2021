@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f43b1fbc-f375-4b3d-b115-ef3e2369d335": {
+      "ProjectGuid": "f43b1fbc-f375-4b3d-b115-ef3e2369d335",
+      "DisplayName": "SonarSweep",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
