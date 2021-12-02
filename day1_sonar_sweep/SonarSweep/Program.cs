@@ -20,7 +20,7 @@ namespace SonarSweep
         {
             List<int> report = new List<int>();
 
-            StreamReader reader = File.OpenText("C:\\Dev\\Csharp\\AoC2021\\day1_sonar_sweep\\SonarSweep\\sonar_report.txt");
+            StreamReader reader = File.OpenText(@"C:\Dev\Csharp\AoC2021\day1_sonar_sweep\SonarSweep\sonar_report.txt");
             string line;
             while ((line = reader.ReadLine()) != null)
             {
