@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SonarSweep
-build_property.ProjectDir = C:\Dev\Csharp\AoC2021\day1_sonar_sweep\SonarSweep\SonarSweep\
+build_property.ProjectDir = C:\Dev\Csharp\AoC2021\day1_sonar_sweep\SonarSweep\

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Csharp\\AoC2021\\day1_sonar_sweep\\SonarSweep\\SonarSweep\\SonarSweep.csproj",
+      "projectUniqueName": "C:\\Dev\\Csharp\\AoC2021\\day1_sonar_sweep\\SonarSweep\\SonarSweep.csproj",
       "projectName": "SonarSweep",
-      "projectPath": "C:\\Dev\\Csharp\\AoC2021\\day1_sonar_sweep\\SonarSweep\\SonarSweep\\SonarSweep.csproj",
+      "projectPath": "C:\\Dev\\Csharp\\AoC2021\\day1_sonar_sweep\\SonarSweep\\SonarSweep.csproj",
       "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Csharp\\AoC2021\\day1_sonar_sweep\\SonarSweep\\SonarSweep\\obj\\",
+      "outputPath": "C:\\Dev\\Csharp\\AoC2021\\day1_sonar_sweep\\SonarSweep\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
