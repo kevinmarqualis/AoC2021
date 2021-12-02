@@ -9,8 +9,8 @@ namespace SonarSweep
         static void Main(string[] args)
         {
             List<int> list = GetSonarReport();
-            int countIncreaseDepth = CountIncreasingDepth(list);
-            int countIncreaseThree = CountIncreasingThreeMeasurementWindow(list);
+            int countIncreaseDepth = PuzzleOne(list);
+            int countIncreaseThree = PuzzleTwo(list);
 
             Console.WriteLine($"The number of times depth increased is: {countIncreaseDepth}");
             Console.WriteLine($"The number of time debth increased using the three measurement window is: {countIncreaseThree}");
@@ -30,7 +30,7 @@ namespace SonarSweep
             return report;
         }
 
-        public static int CountIncreasingDepth(List<int> sonarReport)
+        public static int PuzzleOne(List<int> sonarReport)
         {
             int count = 0;
 
@@ -45,7 +45,7 @@ namespace SonarSweep
             return count;
         }
 
-        public static int CountIncreasingThreeMeasurementWindow(List<int> sonarReport)
+        public static int PuzzleTwo(List<int> sonarReport)
         {
             int count = 0;
             int sum = sonarReport[0] + sonarReport[1] + sonarReport[2];
